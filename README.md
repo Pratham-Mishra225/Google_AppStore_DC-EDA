@@ -1,4 +1,4 @@
-# Google Play Store Exploratory Data Analysis (EDA)
+# Google Play Store Data cleaning, preprocessing and Exploratory Data Analysis (EDA)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-3.0%2B-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
